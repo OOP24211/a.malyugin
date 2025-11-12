@@ -1,0 +1,7 @@
+
+# Local IDE and build
+.vscode/
+build/
+
+# macOS
+.DS_Store
