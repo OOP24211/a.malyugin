@@ -1,3 +1,0 @@
-/Users/lesha_malugin/Desktop/C++/build/CMakeFiles/csv_counter.dir
-/Users/lesha_malugin/Desktop/C++/build/CMakeFiles/edit_cache.dir
-/Users/lesha_malugin/Desktop/C++/build/CMakeFiles/rebuild_cache.dir
