@@ -1,0 +1,16 @@
+# build directories
+build/
+build*/
+**/build/
+
+# CMake artifacts
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
